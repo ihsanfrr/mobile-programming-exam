@@ -44,7 +44,7 @@ cd mobile-programming-exam
 3. Navigate to the cloned repository directory and select it.
 4. Let Android Studio import the project and download the necessary dependencies.
 
-## Open Android Studio
+## Usage
 
 1. Connect an Android device to your development machine or set up an Android emulator.
 2. Open the project in Android Studio.
