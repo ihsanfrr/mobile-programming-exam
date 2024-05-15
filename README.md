@@ -33,8 +33,8 @@ To get a local copy up and running, follow these simple steps.
 ### Clone the Repository
 
 ```
-git clone https://github.com/your-username/mobile-app-kotlin.git
-cd mobile-app-kotlin
+git clone https://github.com/ihsanfrr/mobile-programming-exam.git
+cd mobile-programming-exam
 ```
 
 ## Open Android Studio
@@ -52,10 +52,10 @@ cd mobile-app-kotlin
 4. Explore the app functionalities and navigate through the different screens.
 
 ## Screenshots
-![Splash_Screen](https://github.com/ihsanfrr/mobile-programming-exam/assets/59822692/9456b91f-475f-49de-bd1b-c4c0b4afe198)
-![Login_Screen](https://github.com/ihsanfrr/mobile-programming-exam/assets/59822692/162b0afc-8d38-4873-afa4-c9830483bd52)
-![SignUp_Scren](https://github.com/ihsanfrr/mobile-programming-exam/assets/59822692/9bdbe055-8db7-447a-8e93-84d465ad690f)
-![Home_Screen](https://github.com/ihsanfrr/mobile-programming-exam/assets/59822692/ead7b316-90bc-4b36-ae52-281f4f4592f6)
+![Splash_Screen](https://github.com/ihsanfrr/mobile-programming-exam/assets/59822692/9456b91f-475f-49de-bd1b-c4c0b4afe198 =250x)
+![Login_Screen](https://github.com/ihsanfrr/mobile-programming-exam/assets/59822692/162b0afc-8d38-4873-afa4-c9830483bd52 =250x)
+![SignUp_Scren](https://github.com/ihsanfrr/mobile-programming-exam/assets/59822692/9bdbe055-8db7-447a-8e93-84d465ad690f =250x)
+![Home_Screen](https://github.com/ihsanfrr/mobile-programming-exam/assets/59822692/ead7b316-90bc-4b36-ae52-281f4f4592f6 =250x)
 
 ## License
 
@@ -64,5 +64,5 @@ Distributed under the MIT License. See LICENSE for more information.
 ## Contact
 
 Your Name - your-email@example.com
-Project Link: [https://github.com/your-username/mobile-app-kotlin](https://github.com/ihsanfrr/mobile-programming-exam)
+Project Link: [https://github.com/ihsanfrr/mobile-programming-exam](https://github.com/ihsanfrr/mobile-programming-exam)
 G Drive Link: [https://drive.google.com/drive/folders/1vNfNZcbRjajJZ02p5nvcsTLU2NlyEgTS](https://drive.google.com/drive/folders/1vNfNZcbRjajJZ02p5nvcsTLU2NlyEgTS)
