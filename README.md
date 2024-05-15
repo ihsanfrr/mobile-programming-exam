@@ -52,10 +52,10 @@ cd mobile-programming-exam
 4. Explore the app functionalities and navigate through the different screens.
 
 ## Screenshots
-![Splash_Screen](https://github.com/ihsanfrr/mobile-programming-exam/raw/main/assets/59822692/9456b91f-475f-49de-bd1b-c4c0b4afe198.png =250x) 
-![Login_Screen](https://github.com/ihsanfrr/mobile-programming-exam/raw/main/assets/59822692/162b0afc-8d38-4873-afa4-c9830483bd52.png =250x) 
-![SignUp_Scren](https://github.com/ihsanfrr/mobile-programming-exam/raw/main/assets/59822692/9bdbe055-8db7-447a-8e93-84d465ad690f.png =250x) 
-![Home_Screen](https://github.com/ihsanfrr/mobile-programming-exam/raw/main/assets/59822692/ead7b316-90bc-4b36-ae52-281f4f4592f6.png =250x)
+![Splash_Screen](https://github.com/ihsanfrr/mobile-programming-exam/assets/59822692/9456b91f-475f-49de-bd1b-c4c0b4afe198) {width="100px"}
+![Login_Screen](https://github.com/ihsanfrr/mobile-programming-exam/assets/59822692/162b0afc-8d38-4873-afa4-c9830483bd52) 
+![SignUp_Scren](https://github.com/ihsanfrr/mobile-programming-exam/assets/59822692/9bdbe055-8db7-447a-8e93-84d465ad690f) 
+![Home_Screen](https://github.com/ihsanfrr/mobile-programming-exam/assets/59822692/ead7b316-90bc-4b36-ae52-281f4f4592f6)
 
 ## License
 
