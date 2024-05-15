@@ -53,12 +53,10 @@ cd mobile-programming-exam
 
 ## Screenshots
 
-<p align="center">
 <img src="https://raw.githubusercontent.com/ihsanfrr/mobile-programming-exam/main/screenshots/01_splash_screen.png" height="150" alt="Splash">
 <img src="https://raw.githubusercontent.com/ihsanfrr/mobile-programming-exam/main/screenshots/02_login_screen.png" height="150" alt="Login">
-<img src="https://raw.githubusercontent.com/ihsanfrr/mobile-programming-exam/main/screenshots/03_register_screen.png" height="150" alt="SignUp">
+<img src="https://raw.githubusercontent.com/ihsanfrr/mobile-programming-exam/main/screenshots/03_register_scren.png" height="150" alt="SignUp">
 <img src="https://raw.githubusercontent.com/ihsanfrr/mobile-programming-exam/main/screenshots/04_home_screen.png" height="150" alt="Home">
-</p>
 
 ## License
 
