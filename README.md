@@ -65,6 +65,8 @@ Distributed under the MIT License. See LICENSE for more information.
 
 ## Contact
 
-Your Name - your-email@example.com
+Ihsan Fajar Ramadhan - 22552011097@sttbandung.ac.id
+
 Project Link: [https://github.com/ihsanfrr/mobile-programming-exam](https://github.com/ihsanfrr/mobile-programming-exam)
+
 G Drive Link: [https://drive.google.com/drive/folders/1vNfNZcbRjajJZ02p5nvcsTLU2NlyEgTS](https://drive.google.com/drive/folders/1vNfNZcbRjajJZ02p5nvcsTLU2NlyEgTS)
