@@ -56,7 +56,12 @@ cd mobile-programming-exam
 ![Login_Screen](https://github.com/ihsanfrr/mobile-programming-exam/assets/59822692/162b0afc-8d38-4873-afa4-c9830483bd52) 
 ![SignUp_Scren](https://github.com/ihsanfrr/mobile-programming-exam/assets/59822692/9bdbe055-8db7-447a-8e93-84d465ad690f) 
 ![Home_Screen](https://github.com/ihsanfrr/mobile-programming-exam/assets/59822692/ead7b316-90bc-4b36-ae52-281f4f4592f6)
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/59822692/9456b91f-475f-49de-bd1b-c4c0b4afe198.png" height="150" alt="Splash">
+<img src="https://user-images.githubusercontent.com/59822692/162b0afc-8d38-4873-afa4-c9830483bd52.png" height="150" alt="Login">
+<img src="https://user-images.githubusercontent.com/59822692/9bdbe055-8db7-447a-8e93-84d465ad690f.png" height="150" alt="SignUp">
+<img src="https://user-images.githubusercontent.com/59822692/ead7b316-90bc-4b36-ae52-281f4f4592f6.png" height="150" alt="Home">
+</p>
 ## License
 
 Distributed under the MIT License. See LICENSE for more information.
